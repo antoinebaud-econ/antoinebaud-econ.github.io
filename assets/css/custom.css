@@ -1,10 +1,10 @@
 /* Make all links blue */
 a {
-    color: #1a0dab; /* standard blue for links */
-    text-decoration: underline; /* optional, ensures links are underlined */
+    color: #1a0dab !important;  /* !important overrides theme styles */
+    text-decoration: underline;
 }
 
-/* Optional: link hover color */
 a:hover {
-    color: #0b0080;
+    color: #0b0080 !important;
 }
+
