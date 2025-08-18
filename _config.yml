@@ -15,17 +15,6 @@ exclude:
 #twitter:
 #  username: vszhub
 #  card: summary
-
-# Navigation header
-navigation:
-  - title: Home
-    url: /
-  - title: Research
-    url: /research/
-  - title: Teaching
-    url: /teaching/
-  - title: CV
-    url: /vitae/
     
 # Others
 BASE_PATH: https://antoinebaud-econ.github.io/
