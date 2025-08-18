@@ -1,12 +1,12 @@
 /* ===========================
    Header links (Home, Research, Teaching, CV)
 =========================== */
-header nav a {
+.site-nav__link {
     color: #ADD8E6 !important; /* light blue */
     text-decoration: none !important; /* remove underline */
 }
 
-header nav a:hover {
+.site-nav__link:hover {
     color: #87CEFA !important; /* slightly darker on hover */
 }
 
@@ -23,6 +23,6 @@ header nav a:hover {
 }
 
 /* ===========================
-   Keep back-to-top button as is
+   Back to top button
 =========================== */
-/* No changes needed; the above rules do not target it */
+/* No changes needed */
