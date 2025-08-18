@@ -21,12 +21,11 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
-baseurl: ''
-title: 'My website'
-description: 'This is my new website'
-permalink: pretty
-logo: ""
+
+title: Antoine Baud
+description: PhD Candidate <br> Panthéon-Assas University, Paris
+url: https://antoinebaud-econ.github.io
+email: mailto:antoine.baud@assas-universite.fr
 
 # Pagination
 paginate: 5
