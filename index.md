@@ -22,4 +22,5 @@ Email: antoine.baud@assas-universite.fr
 CRED  
 Panthéon-Assas Université  
 31-35, rue Froideveaux
-75 014 Paris, France
+
+75014 Paris, France
