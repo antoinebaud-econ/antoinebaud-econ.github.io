@@ -1,4 +1,7 @@
-### About Me
+---
+title: "About Me"
+layout: page
+---
 
 <div style="text-align: justify;" markdown="1">
 
