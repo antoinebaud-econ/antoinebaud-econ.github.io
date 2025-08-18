@@ -1,6 +1,6 @@
 ### About Me
 
-<div style="text-align: justify;">
+<div style="text-align: justify;" markdown="1">
 
 I am a PhD candidate in the [Paris center in Law and Economics](https://cred.u-paris2.fr) at [Panthéon-Assas University](https://www.assas-universite.fr/fr).
 
