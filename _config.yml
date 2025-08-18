@@ -21,7 +21,6 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-
 title: Antoine Baud
 description: PhD Candidate <br> Panthéon-Assas University, Paris
 url: https://antoinebaud-econ.github.io
@@ -61,3 +60,12 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+
+# Custom CSS
+sass:
+  style: compressed
+
+# Include custom CSS file
+# Make sure you create this file at assets/css/custom.css
+include:
+  - assets/css/custom.css
