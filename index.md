@@ -12,7 +12,6 @@ p {
 /* Make all links blue */
 a {
     color: #1a0dab !important;  /* standard blue */
-    text-decoration: underline;
 }
 
 a:hover {
