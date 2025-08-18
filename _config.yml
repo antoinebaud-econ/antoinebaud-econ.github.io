@@ -16,6 +16,17 @@ exclude:
 #  username: vszhub
 #  card: summary
 
+# Navigation header
+navigation:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Teaching
+    url: /teaching/
+  - title: CV
+    url: /CV/
+    
 # Others
 BASE_PATH: https://antoinebaud-econ.github.io/
 show_downloads: false
