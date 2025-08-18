@@ -1,6 +1,5 @@
 ---
-title: "About Me"
-layout: page
+title: "Antoine Baud"
 ---
 
 <div style="text-align: justify;" markdown="1">
