@@ -1,0 +1,28 @@
+theme: jekyll-theme-minimal
+
+# Setup
+title: Antoine Baud
+description: PhD Candidate <br> Panthéon-Assas Université, Paris
+url: https://antoinebaud-econ.github.io/
+email: mailto:antoine.baud@assas-universite.fr
+
+# Optimize Jekyll
+exclude:
+  - .gitignore
+  - README.md
+
+# Optimize Jekyll SEO Tag
+#twitter:
+#  username: vszhub
+#  card: summary
+
+# Others
+BASE_PATH: https://antoinebaud-econ.github.io/
+show_downloads: false
+
+# Specify the author for blog posts
+author:
+  name: Antoine Baud
+  url: https://https://github.com/antoinebaud-econ/
+  email: antoine.baud@assas-universite.fr
+  github: antoinebaud-econ
