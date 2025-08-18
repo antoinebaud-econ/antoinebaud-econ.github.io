@@ -21,11 +21,11 @@ navigation:
   - title: Home
     url: /
   - title: Research
-    url: /Research/
+    url: /research/
   - title: Teaching
-    url: /Teaching/
+    url: /teaching/
   - title: CV
-    url: /CV/
+    url: /vitae/
     
 # Others
 BASE_PATH: https://antoinebaud-econ.github.io/
