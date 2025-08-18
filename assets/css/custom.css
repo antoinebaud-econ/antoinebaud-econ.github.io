@@ -1,7 +1,6 @@
 /* Make all links blue */
 a {
     color: #1a0dab !important;  /* !important overrides theme styles */
-    text-decoration: underline;
 }
 
 a:hover {
