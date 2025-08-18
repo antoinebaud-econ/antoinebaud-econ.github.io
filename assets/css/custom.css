@@ -1,9 +1,28 @@
-/* Make all links blue */
-a {
-    color: #1a0dab !important;  /* !important overrides theme styles */
+/* ===========================
+   Header links (Home, Research, Teaching, CV)
+=========================== */
+header nav a {
+    color: #ADD8E6 !important; /* light blue */
+    text-decoration: none !important; /* remove underline */
 }
 
-a:hover {
-    color: #0b0080 !important;
+header nav a:hover {
+    color: #87CEFA !important; /* slightly darker on hover */
 }
 
+/* ===========================
+   All links on the home page except email
+=========================== */
+.page-index a:not([href^="mailto:"]) {
+    color: #ADD8E6 !important; /* light blue */
+    text-decoration: none !important; /* remove underline */
+}
+
+.page-index a:not([href^="mailto:"]):hover {
+    color: #87CEFA !important; /* hover effect */
+}
+
+/* ===========================
+   Keep back-to-top button as is
+=========================== */
+/* No changes needed; the above rules do not target it */
