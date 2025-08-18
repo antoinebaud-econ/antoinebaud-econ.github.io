@@ -3,22 +3,6 @@ title: "About Me"
 layout: page
 ---
 
-<style>
-/* Justify text */
-p {
-    text-align: justify;
-}
-
-/* Make all links blue */
-a {
-    color: #1a0dab !important;  /* standard blue */
-}
-
-a:hover {
-    color: #0b0080 !important;
-}
-</style>
-
 I am a PhD candidate in the [Paris research center in Law and Economics](https://cred.u-paris2.fr) at [Panthéon-Assas University](https://www.assas-universite.fr/fr).
 
 I am an applied macroeconomist with interests at the intersection of Environmental Policies, Climate Change, Growth and Political Uncertainty.
