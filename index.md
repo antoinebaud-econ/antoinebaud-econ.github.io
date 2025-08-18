@@ -1,6 +1,4 @@
----
-title: "Antoine Baud"
----
+# Antoine Baud
 
 <div style="text-align: justify;" markdown="1">
 
