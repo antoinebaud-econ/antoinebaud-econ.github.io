@@ -19,7 +19,7 @@ a:hover {
 }
 </style>
 
-I am a PhD candidate in the [Paris center in Law and Economics](https://cred.u-paris2.fr) at [Panthéon-Assas University](https://www.assas-universite.fr/fr).
+I am a PhD candidate in the [Paris research center in Law and Economics](https://cred.u-paris2.fr) at [Panthéon-Assas University](https://www.assas-universite.fr/fr).
 
 I am an applied macroeconomist with interests at the intersection of Environmental Policies, Climate Change, Growth and Political Uncertainty.
 
