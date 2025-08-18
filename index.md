@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ## About Me
 
 <div style="text-align: justify;" markdown="1">
