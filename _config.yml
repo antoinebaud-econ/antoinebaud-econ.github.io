@@ -19,6 +19,7 @@ exclude:
 # Others
 BASE_PATH: https://antoinebaud-econ.github.io/
 show_downloads: false
+show_footer: false
 
 # Specify the author for blog posts
 author:
