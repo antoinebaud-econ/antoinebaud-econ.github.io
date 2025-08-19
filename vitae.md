@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Curriculum Vitae"
+title: "Vitae"
 ---
 
 You can view or download my CV here:
