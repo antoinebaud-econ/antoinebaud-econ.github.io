@@ -6,6 +6,7 @@ logo: assets/images/ID_Photo_new.jpg
 description: PhD Candidate <br> Pantheon-Assas University, Paris
 url: https://antoinebaud-econ.github.io/
 email: mailto:antoine.baud@assas-universite.fr
+linkedin_url: "https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"
 
 # Optimize Jekyll
 exclude:
