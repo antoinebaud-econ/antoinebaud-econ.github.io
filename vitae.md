@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Curriculum Vitae"
-permalink: /vitae/
 ---
 
 You can view or download my CV here:
