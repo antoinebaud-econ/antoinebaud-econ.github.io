@@ -5,6 +5,8 @@ title: Teaching
 
 ### Teaching
 
+<div style="text-align: justify;" markdown="1">
+
 #### Microeconomics: Market Structure and Business Strategy, TA, Spring 2024
 
 University Paris 1 Panthéon-Sorbonne, L2 in Economics with Professor Jean-Philippe Tropéano and Associate Professor Claire Pignol
@@ -24,3 +26,5 @@ Panthéon-Assas University, L1 in Economics and Management with Professor Olivie
 #### Monetary and Banking Economics, TA, Spring 2026
 
 Panthéon-Assas University, L2 in Economics and Management with Professor Mariana Rojas-Breu
+
+<div>
