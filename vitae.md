@@ -1,9 +1,34 @@
 ---
-layout: page
-title: "Vitae"
+layout: default
 ---
 
-You can view or download my CV here:
+<style type="text/css">
+  h4 {
+    font-size: 12px;
+  }
+  h6 {
+    font-size: 12px;
+    color:#595959;
+    font-weight: 400;
+  }
+  ul {
+    font-size: 12px;
+  }
+  h6 + ul {
+    margin-top: -15px;
+  }
+  h4 + ul {
+    margin-top: -10px;
+  }
+  h4 + h6 {
+    margin-top: -10px;
+  }
+  ul + h6 {
+    margin-top: -10px;
+  }
+</style>
 
-- [📄 Open CV (PDF)](/assets/vitae.pdf)
-- [⬇ Download CV (PDF)](/assets/vitae.pdf){:download="Antoine_Baud_CV.pdf"}
+
+## Vitæ
+
+[CV as pdf](/assets/CV.pdf)
