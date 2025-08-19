@@ -9,7 +9,7 @@ title: Home
 
 I am a PhD candidate in the [Paris research center in Law and Economics](https://cred.u-paris2.fr) at [Panthéon-Assas University](https://www.assas-universite.fr/fr).
 
-I am an applied macroeconomist with interests at the intersection of Environmental Policies, Climate Change, Growth and Political Uncertainty.
+I am a macroeconomist with interests at the intersection of Environmental Policies, Climate Change, Growth and Political Uncertainty.
 
 Previously, I completed my undergraduate studies in Economics at [Paris 1 Panthéon-Sorbonne](https://economie.pantheonsorbonne.fr/), I obtained a first master degree in Economic Analysis and Policy from [Panthéon-Assas University](https://www.assas-universite.fr/fr/formations/offre-de-formation/master-analyse-politique-economique-ape-parcours-recherches-en), and a second one in Economic Analysis and Policy with a focus on quantitative macroeconomics from the [Paris School of Economics](https://www.parisschoolofeconomics.eu/formation/masters/master-analyse-et-politique-economiques/).
 
