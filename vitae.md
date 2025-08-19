@@ -31,4 +31,4 @@ layout: default
 
 ## Vitæ
 
-[CV as pdf](/assets/CV.pdf)
+[CV as pdf](/assets/CV(1).pdf)
