@@ -15,7 +15,7 @@ Panthéon-Assas University, L1 in Economics and Management with Professor Paul M
 
 #### Mathematics and Statistics, TA, Spring 2025 
 
-Panthéon-Assas University Mauritius Campus, BA 1st year in Economics and Finance with Professors Bertrand Crettez and Mathieu Richard
+Panthéon-Assas University Mauritius Campus, BA 1st year in Economics and Finance with Professors Bertrand Crettez and Matthieu Richard
 
 #### Macroeconomics II, TA, Spring 2025-present
 
