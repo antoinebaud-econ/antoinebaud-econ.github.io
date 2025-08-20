@@ -11,7 +11,7 @@ title: Teaching
 
 Panthéon-Assas University, L2 in Economics and Management with Professor Mariana Rojas-Breu
 
-#### Macroeconomics II, TA, Spring 2025-present
+#### Macroeconomics II, TA, Spring 2025-ongoing
 
 Panthéon-Assas University, L1 in Economics and Management with Professor Olivier Cardi
 
